@@ -24,7 +24,7 @@
 6. Detected and removed Age outliers using IQR method.
 
 ## AI prompts used
-- **Prompt 1:**  
+- **Prompt:**  
   "Provide step-by-step guidance for a data cleaning activity using the Titanic dataset. The instructions should include how to check for missing values, handle duplicates, standardize data formats, and detect outliers using Python (Pandas)."
 
 - **Assistant response excerpt:**  
@@ -35,4 +35,4 @@
 - Rows after: (825, 11) or 825 rows
 
 ## Video
-- [Unlisted YouTube / Google Drive link here]
+- [Unlisted YouTube]
